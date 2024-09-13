@@ -2,8 +2,6 @@
 
 PowerCalc is a comprehensive electricity bill calculator and energy management tool designed specifically for Oman's electricity tariff system.
 
-![PowerCalc Logo](path/to/your/logo.png)
-
 ## 🌟 Features
 
 - **Accurate Bill Calculation**: Utilizes the latest tariff data from Oman's electricity providers.
