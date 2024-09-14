@@ -13,11 +13,6 @@ PowerCalc is a comprehensive electricity bill calculator and energy management t
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v14.0.0 or later)
-- npm (v6.0.0 or later)
-
 ### Installation
 
 1. Clone the repository:
